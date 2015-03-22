@@ -5,3 +5,5 @@
 [Faster AngularJS Rendering (AngularJS and ReactJS)](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)：AngularJS 与 ReactJS 的渲染对比。
 
 [指尖的流畅体验](http://www.w3cplus.com/mobile/mobile-web.html)
+
+[reapp](https://github.com/reapp/reapp)
