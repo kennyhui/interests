@@ -7,3 +7,5 @@
 [指尖的流畅体验](http://www.w3cplus.com/mobile/mobile-web.html)
 
 [reapp](https://github.com/reapp/reapp)
+
+[React Native 概述：背景、规划和风险](http://div.io/topic/938)（作者：鬼道 徐凯）
